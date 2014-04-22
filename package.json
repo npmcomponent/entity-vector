@@ -1,0 +1,11 @@
+{
+  "name": "entity-vector",
+  "description": "vector 2d",
+  "version": "0.2.0",
+  "keywords": [
+    "vector",
+    "math"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
